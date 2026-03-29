@@ -26,10 +26,10 @@ FastAPI · React · Docker · TypeScript · PyTorch · TensorFlow
 | Project | What it is |
 |---|---|
 | [Body-Pattern-Abstraction](https://github.com/ilonae/Body-Pattern-Abstraction) | PointNet-based sewing pattern adaptation from 3D body scans — disability-inclusive, privacy-first |
-| [Concept_Pruning_FP2_ICW2](https://github.com/ilonae/Concept_Pruning_FP2_ICW2) | Master's thesis: concept-level pruning of a VGG mitosis classifier via CRP |
+| [Concept_Pruning_FP2_ICW2](https://github.com/ilonae/Concept_Pruning_FP2_ICW2) | Independent Coursework 2 (M.Sc. CS): concept-level pruning of a VGG mitosis classifier via CRP |
+| [Political_chatbot_panel](https://github.com/ilonae/Political_chatbot_panel) | Multi-persona AI debate panel, fully local (Ollama + Docker), built for a gallery exhibition |
+| [Fake-News-Detection](https://github.com/ilonae/Fake-News-Detection) | Fake news detection project comparing TF-IDF+SVM, BERT and FakeBERT — baseline text classification for further research |
 | [ProtoPNet_ICW1](https://github.com/ilonae/ProtoPNet_ICW1) | Prototype-based skin lesion classification — 90.11% accuracy with interpretability preserved post-pruning |
-| [Political_chatbot_panel](https://github.com/ilonae/Political_chatbot_panel) | Multi-persona AI debate panel, fully local (Ollama + Docker), built for gallery exhibition |
-| [XAI-CRP-Webtool](https://github.com/ilonae/XAI-CRP-Webtool) | Interactive web tool for visualising CRP attributions |
 
 ---
 
