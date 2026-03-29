@@ -11,7 +11,7 @@ I care about ethics, and models that can justify their decisions — especially 
 Concept Relevance Propagation (CRP), Layer-wise Relevance Propagation (LRP), prototype-based networks (ProtoPNet). My master's thesis explored concept-level attribution blended into a visual Web-UI, and pruning of image classifiers (which I inspected on the domain of medical diagnosis before)
 
 **Medical & Clinical AI**
-Skin lesion classification (HAM10000), mitosis detection, and body-inclusive 3D scan processing for adaptive garment pattern generation using PointNet.
+Skin lesion classification (HAM10000), mitosis detection, and body-inclusive 3D scan processing for adaptive garment pattern generation using PointNet. Previously, I explored concepts and researched topics around histopathology and in the scopes of university courses in affiliation with Charité Berlin.
 
 **LLM Applications & Agentic Systems**
 Local-first LLM deployment with Ollama, multi-persona conversational AI, privacy-preserving architecture for sensitive contexts. Interested in bringing interpretability thinking into the LLM space.
