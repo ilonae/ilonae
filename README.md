@@ -29,7 +29,7 @@ FastAPI · React · Docker · TypeScript · PyTorch · TensorFlow
 | [Concept_Pruning_FP2_ICW2](https://github.com/ilonae/Concept_Pruning_FP2_ICW2) | Independent Coursework 2 (M.Sc. CS): concept-level pruning of a VGG mitosis classifier via CRP |
 | [Political_chatbot_panel](https://github.com/ilonae/Political_chatbot_panel) | Multi-persona AI debate panel, fully local (Ollama + Docker), built for a gallery exhibition |
 | [Fake-News-Detection](https://github.com/ilonae/Fake-News-Detection) | Fake news detection project comparing TF-IDF+SVM, BERT and FakeBERT — baseline text classification for further research |
-| [ProtoPNet_ICW1](https://github.com/ilonae/ProtoPNet_ICW1) | Prototype-based skin lesion classification — 90.11% accuracy with interpretability preserved post-pruning |
+| [ProtoPNet_ICW1](https://github.com/ilonae/ProtoPNet_ICW1) | Independent Coursework 1 (M.Sc. CS): Prototype-based skin lesion classification — 90.11% accuracy with interpretability preserved post-pruning |
 
 ---
 
