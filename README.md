@@ -1,7 +1,7 @@
 # Hi, I'm Ilona ☕
 
 ML engineer & researcher with a focus on Explainable AI (XAI) and medical imaging.
-I care about ethics, and models that can justify their decisions — especially in high-stakes domains.
+I build systems that are both capable and accountable — interpretable classifiers, privacy-preserving local deployments, and agents that surface their own reasoning.
 
 ---
 
@@ -25,10 +25,10 @@ FastAPI · React · Docker · TypeScript · PyTorch · TensorFlow
 
 | Project | What it is |
 |---|---|
-| [Body Pattern Abstraction](https://github.com/ilonae/Body-Pattern-Abstraction) | PointNet-based sewing pattern adaptation from 3D body scans — disability-inclusive, privacy-first |
-| [XAI Concept-Pruning FP2/ICW2](https://github.com/ilonae/xai-concept-pruning-mitoses) | Independent Coursework 2 (M.Sc. CS): concept-level pruning of a VGG mitosis classifier via CRP |
+| [ArXiv Paper Digest](https://github.com/ilonae/ArXiv-Paper-Digest) [![PyPI](https://img.shields.io/pypi/v/arxiv-paper-digest?style=flat-square)](https://pypi.org/project/arxiv-paper-digest/) | LangGraph agent that monitors ArXiv daily — semantic filtering, local LLM summaries, SQLite memory. Available on PyPI. |
+| [Body Pattern Abstraction](https://github.com/ilonae/Body-Pattern-Abstraction) | PointNet-based sewing pattern adaptation from 3D body scans — disability-inclusive, privacy-first. Active research project. |
+| [RAG + XAI: Concept Pruning on Mitoses](https://github.com/ilonae/RAG-Explanations-XAI-Pruning-over-Mitoses)| RP-based concept attribution of a VGG mitosis classifier, extended with a RAG assistant that lets you query the XAI literature interactively |
 | [Political Chatbot Panel](https://github.com/ilonae/Political_chatbot_panel) | Multi-persona AI debate panel, fully local (Ollama + Docker), built for a gallery exhibition |
-| [Fake News Detection](https://github.com/ilonae/Fake-News-Detection) | Fake news detection project comparing TF-IDF+SVM, BERT and FakeBERT — baseline text classification for further research |
 | [ProtoPNet ICW1](https://github.com/ilonae/ProtoPNet-ICW1) | Independent Coursework 1 (M.Sc. CS): Prototype-based skin lesion classification — 90.11% accuracy with interpretability preserved post-pruning |
 
 ---
@@ -42,12 +42,14 @@ FastAPI · React · Docker · TypeScript · PyTorch · TensorFlow
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ---
 
 ## Currently exploring
 
-- RAG pipelines applied to XAI literature
+- **ArXiv Paper Digest** — adding HuggingFace Space demo for zero-install access
+- **Body Pattern Abstraction** — Phase 1: LandmarkNet training on synthetic scan data
 - LLM fine-tuning (QLoRA) for domain-specific classification
 - Mechanistic interpretability of transformer models
 
