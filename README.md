@@ -4,6 +4,11 @@ ML engineer & researcher with a focus on Explainable AI (XAI) and medical imagin
 I build systems that are both capable and accountable — interpretable classifiers, privacy-preserving local deployments, and agents that surface their own reasoning.
 
 ---
+## Publications
+
+**From attribution maps to human-understandable explanations through Concept Relevance Propagation**  
+Achtibat, Dreyer, Eisenbraun et al. — *Nature Machine Intelligence*, 2023 · [Paper](https://www.nature.com/articles/s42256-023-00711-8) · 218+ citations  
+Previous: Fraunhofer Heinrich Hertz Institute, Berlin
 
 ## What I work on
 
